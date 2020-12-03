@@ -11,7 +11,7 @@
 * Contact me for more, here is [email](badar.maulana.techno@gmail.com)
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=badadarr&theme=blueberry&show_icons=true)
+![badadarr's github stats](https://github-readme-stats.vercel.app/api?username=badadarr&theme=blueberry&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badadarr&layout=compact)](https://github.com/badadarr/github-readme-stats)
 
