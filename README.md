@@ -11,7 +11,8 @@
 * Contact me for more, here is [email](badar.maulana.techno@gmail.com)
 
 
-![badadarr's github stats](https://github-readme-stats.vercel.app/api?username=badadarr&show_icons=true&theme=radical)
+![badadarr's github stats](https://github-readme-stats.vercel.app/api?username=badadarr&show_icons=true&theme=radical) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=badadarr&repo=github-readme-stats)](https://github.com/badadarr/github-readme-stats)
+
 
 
 
