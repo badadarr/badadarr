@@ -11,14 +11,7 @@
 * Contact me for more, here is [email](badar.maulana.techno@gmail.com)
 
 
-<a href="https://github.com/badadarr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=badadarr&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/badadarr/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=badadarr&repo=convoychat" />
-</a>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=badadarr&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badadarr&layout=compact)](https://github.com/badadarr/github-readme-stats)
 
