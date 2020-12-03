@@ -12,7 +12,8 @@
 
 
 ![badadarr's github stats](https://github-readme-stats.vercel.app/api?username=badadarr&show_icons=true&theme=radical) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=badadarr&repo=github-readme-stats)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badadarr)](https://github.com/badadarr/github-readme-stats)
+
 
 
 
