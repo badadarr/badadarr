@@ -20,10 +20,6 @@
 
 ![badadarr's github stats](https://github-readme-stats.vercel.app/api?username=badadarr&show_icons=true&theme=radical) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badadarr)](https://github.com/badadarr/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badadarr&exclude_repo=github-readme-stats,badadarr.github.io)](https://github.com/badadarr/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badadarr&hide=javascript,html)](https://github.com/badadarr/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badadarr&langs_count=8)](https://github.com/badadarr/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badadarr&layout=compact)](https://github.com/badadarr/github-readme-stats)
 
 
