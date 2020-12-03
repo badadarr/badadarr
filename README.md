@@ -18,7 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=badadarr&repo=convoychat" />
 </a>
 
-![badadarr's github stats](https://github-readme-stats.vercel.app/api?username=badadarr&show_icons=true&theme=gradient) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badadarr&layout=compact)](https://github.com/badadarr/github-readme-stats)
 
