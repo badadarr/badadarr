@@ -14,6 +14,8 @@
 I'm an Vocational student. My dream is to work in a well-known company and is engaged in astronomy, namely Space X. Therefore, I continue my education until I am proficient in a potential that is in me because, "If you want to be successful, be educated as high as possible". And I believe that I can make it happen with the career programming that I do 💻🚀.
 
 
+
+### About Skills
 ![badadarr's github stats](https://github-readme-stats.vercel.app/api?username=badadarr&theme=blueberry&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badadarr&layout=compact)](https://github.com/badadarr)
