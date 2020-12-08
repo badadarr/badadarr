@@ -8,7 +8,7 @@
 * I'm a iOS Mobile Developer 👨🏻‍💻  & IoT Development 🤖
 * currently I'm learning iOS fundamentals 💻
 * Currently studying towards a scholarship abroad📚🇯🇵⛩
-* Contact me for more, here is [email](badar.maulana.techno@gmail.com)
+* Contact me for more, here is (email(badar.maulana.techno@gmail.com))
 
 
 ![badadarr's github stats](https://github-readme-stats.vercel.app/api?username=badadarr&theme=blueberry&show_icons=true)
