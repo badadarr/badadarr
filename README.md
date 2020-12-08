@@ -13,7 +13,7 @@
 
 ![badadarr's github stats](https://github-readme-stats.vercel.app/api?username=badadarr&theme=blueberry&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badadarr&layout=compact)](https://github.com/badadarr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badadarr&layout=compact)](https://github.com/badadarr)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=badadarr&repo=HomeAutomation)](https://github.com/badadarr/HomeAutomation)
 
 
