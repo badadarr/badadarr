@@ -11,7 +11,7 @@
 ### About ME👇
 ![Alt Text](https://media.giphy.com/media/1CEoPFtZIIHbG/giphy.gif)
 
-I'm an Vocational student. My dream is to work in a well-known company and is engaged in astronomy, namely Space X. Therefore, I continue my education until I am proficient in a potential that is in me because, "If you want to be successful, be educated as high as possible". And I believe that I can make it happen with the career programming that I do 💻🚀.
+I'm an Vocational student. My dream is to work for a well-known company and is engaged in Software Development, namely Apple Company. Therefore, I continue my education until I am proficient in a potential that is in me because, "If you want to be successful, be educated as high as possible". And I believe that I can make it happen with the career programming that I do 💻🚀.
 
 
 
