@@ -5,7 +5,7 @@
 
 * I'm a iOS Software Developer 👨🏻‍💻  & IoT Development 🤖
 * currently I'm learning iOS fundamentals 💻
-* Currently studying towards a scholarship abroad📚🇯🇵⛩
+* currently learn deeply about software engineer at apple 🍏
 * Contact me for more, here is [email](badar.maulana.techno@gmail.com) 
 
 ### About ME👇
@@ -18,7 +18,7 @@ I'm an Vocational student. My dream is to work for a well-known company and is e
 ### About Skills
 ![badadarr's github stats](https://github-readme-stats.vercel.app/api?username=badadarr&theme=blueberry&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badadarr&theme=blueberry&show_icons=true)](https://github.com/badadarr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badadarr&layout=compact&theme=blueberry&show_icons=true)](https://github.com/badadarr)
 
 
 
