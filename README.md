@@ -3,10 +3,10 @@
 
 ### I'm Badar👋
 
-* I'm a iOS Mobile Developer 👨🏻‍💻  & IoT Development 🤖
+* I'm a iOS Software Developer 👨🏻‍💻  & IoT Development 🤖
 * currently I'm learning iOS fundamentals 💻
 * Currently studying towards a scholarship abroad📚🇯🇵⛩
-* Contact me for more, here is [email](badar.maulana.techno@gmail.com) 
+* Contact me for more, here is ![email](badar.maulana.techno@gmail.com) 
 
 ### About ME👇
 ![Alt Text](https://media.giphy.com/media/1CEoPFtZIIHbG/giphy.gif)
