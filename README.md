@@ -16,9 +16,7 @@ I'm an Vocational student. My dream is to work for a well-known company and is e
 
 
 ### About Skills
-![badadarr's github stats](https://github-readme-stats.vercel.app/api?username=badadarr&theme=blueberry&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badadarr&layout=compact&theme=blueberry&show_icons=true)](https://github.com/badadarr)
+![badadarr's github stats](https://github-readme-stats.vercel.app/api?username=badadarr&theme=blueberry&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badadarr&layout=compact&theme=blueberry&show_icons=true)](https://github.com/badadarr)
 
 
 
