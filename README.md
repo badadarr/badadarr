@@ -8,7 +8,7 @@
 * Build something new technology using Arduino 💻 
 * currently I'm learning iOS fundamentals 💻
 * currently learn deeply about software engineer at apple 🍏
-* Contact me for more, here is my Email [(badar.maulana.techno@gmail.com)]
+* Contact me for more, here is my Email (badar.maulana.techno@gmail.com)
 
 ### About ME👇
 ![Alt Text](https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif)
