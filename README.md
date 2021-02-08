@@ -3,8 +3,8 @@
 
 ### I'm Badar👋
 
-* I'm a iOS Software Developer 👨🏻‍💻  & IoT Development 🤖
-* Drone Lovers 🚁
+* I'm a iOS Software Developer 👨🏻‍💻  & Electrical Engineer ⚡️💡
+* Robotik n Drone Lovers 🤖<..>🚁 
 * Build something new technology using Arduino 💻 
 * currently I'm learning iOS fundamentals 💻
 * currently learn deeply about software engineer at apple 🍏
