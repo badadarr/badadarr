@@ -7,7 +7,7 @@
 * Robotik n Drone Lovers 🤖<..>🚁 
 * Build something new technology using Arduino 💻 
 * currently I'm learning iOS fundamentals 💻
-* currently learn deeply about software engineer at apple 🍏
+* currently learn deeply about software engineer in apple 🍏
 * Contact me for more, here is my Email: badar.maulana.techno@gmail.com
 
 ### About ME👇
