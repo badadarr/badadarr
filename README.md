@@ -31,7 +31,7 @@ I'm an Vocational student. My dream is to work for a well-known company and is e
 [![badadarr's github stats](https://github-readme-stats.vercel.app/api?username=badadarr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
 ------------------------------------------------------------------------------------
 
-I### Follow me:
+### Follow me:
 
 <a href="https://www.linkedin.com/in/badadarrs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/bididirr_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="nstagram"></a>
