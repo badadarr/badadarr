@@ -29,6 +29,7 @@ I'm an Vocational student. My dream is to work for a well-known company and is e
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
 [![badadarr's github stats](https://github-readme-stats.vercel.app/api?username=badadarr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
+
 ------------------------------------------------------------------------------------
 
 ### Follow me:
