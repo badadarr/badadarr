@@ -3,12 +3,12 @@
 
 ### I'm Badar👋
 
-* I'm a iOS Software Developer 👨🏻‍💻  & Electrical Engineer ⚡️💡
-* Robotik n Drone Lovers 🤖<..>🚁 
+* I'm a iOS Software Engineer 👨🏻‍💻  & Electrical Engineer ⚡️💡
+* Robotik n Drone Lovers 🤖<..>🚁 , Have a competition Robotics in FRC and FGC
 * Build something new technology using Arduino 💻 
-* currently I'm learning iOS fundamentals 💻
-* currently learn deeply about software engineer in apple 🍏
-* Contact me for more, here is my Email: badar.maulana.techno@gmail.com
+* currently I'm learning all about language programming for building mobile application 💻
+* Still learn about academics for go to university 🏫🎓
+* Contact me for more, here is my Email: ![Email Text](badar.maulana.techno@gmail.com)
 
 ### About ME👇
 ![Alt Text](https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif)
