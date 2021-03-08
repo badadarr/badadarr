@@ -5,7 +5,6 @@
 
 * I'm a Software Engineer 👨🏻‍💻  & Electrical Engineer ⚡️💡
 * Robotik Technical n Drone Lovers 🤖<..>🚁 , Have a competition Robotics in FRC and FGC
-* I'm Using C++, Javascript, HTML, Python, Kotlin, Swift
 * I'm being coder since at 13 y.o using C++
 * Build something new technology using Arduino 💻 
 * I've skills to Edit video using Premiere Pro, Design Mockup, Photographer
@@ -21,8 +20,17 @@ I'm an Vocational student. My dream is to work for a well-known company and is e
 
 ------------------------------------------------------------------------------------
 
-### About Skills
-![badadarr's github stats](https://github-readme-stats.vercel.app/api?username=badadarr&theme=blueberry&show_icons=true)/[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badadarr&layout=compact&theme=blueberry&show_icons=true)](https://github.com/badadarr)/![Alt Text](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
+### Language Skills
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png"></code>
+
+(https://github-readme-stats.vercel.app/api?username=badadarr&theme=blueberry&show_icons=true)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=badadarr&layout=compact&theme=blueberry&show_icons=true)](https://github.com/badadarr)(https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
 
 
