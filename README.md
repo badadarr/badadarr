@@ -28,7 +28,14 @@ I'm an Vocational student. My dream is to work for a well-known company and is e
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
-[![Badadarr's github stats](https://github-readme-stats.vercel.app/api?username=badadarr&theme=blueberry&show_icons=true)
+[![badadarr's github stats](https://github-readme-stats.vercel.app/api?username=badadarr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
+------------------------------------------------------------------------------------
+
+I### Follow me:
+
+<a href="https://www.linkedin.com/in/badadarrs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/bididirr_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="nstagram"></a>
+<a href="https://www.twitter.com/bididaw" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 
 
 
