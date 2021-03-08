@@ -3,9 +3,12 @@
 
 ### I'm Badar👋
 
-* I'm a iOS Software Engineer 👨🏻‍💻  & Electrical Engineer ⚡️💡
-* Robotik n Drone Lovers 🤖<..>🚁 , Have a competition Robotics in FRC and FGC
+* I'm a Software Engineer 👨🏻‍💻  & Electrical Engineer ⚡️💡
+* Robotik Technical n Drone Lovers 🤖<..>🚁 , Have a competition Robotics in FRC and FGC
+* I'm Using C++, Javascript, HTML, Python, Kotlin, Swift
+* I'm being coder since at 13 y.o using C++
 * Build something new technology using Arduino 💻 
+* I've skills to Edit video using Premiere Pro, Design Mockup, Photographer
 * currently I'm learning all about language programming for building mobile application 💻
 * Still learn about academics for go to university 🏫🎓
 * Contact me for more 👉<a href="mailto:badar.maulana.techno@gmail.com">email</a>
