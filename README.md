@@ -3,7 +3,7 @@
 
 ### I'm Badar👋
 
-* I'm a Software Engineer 👨🏻‍💻  & Electrical Engineer ⚡️💡
+* I'm Junior Software Engineer 👨🏻‍💻  & Junior Electrical Engineer ⚡️💡
 * Robotik Technical n Drone Lovers 🤖<-->🚁 , Have a competition Robotics in FRC and FGC
 * I'm being coder since at 13 y.o using C++
 * Build something new technology using Arduino 💻 
