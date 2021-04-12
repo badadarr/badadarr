@@ -4,10 +4,7 @@
 ### I'm Badar👋
 
 * I'm Junior Software Engineer 👨🏻‍💻  & Junior Electrical Engineer ⚡️💡
-* Robotik Technical n Drone Lovers 🤖<-->🚁 , Have a competition Robotics in FRC and FGC
-* I'm being coder since at 13 y.o using C++
-* Build something new technology using Arduino 💻 
-* currently I'm learning all about language programming for building mobile application 💻
+* currently I'm learning all about language programming for building mobile application
 * Still learn about academics for go to university 🏫🎓
 * Contact me for more 👉<a href="mailto:badar.maulana.techno@gmail.com">email</a>
 
@@ -19,7 +16,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
 [![badadarr's github stats](https://github-readme-stats.vercel.app/api?username=badadarr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
 
