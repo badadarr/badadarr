@@ -4,7 +4,7 @@
 ### I'm Badar👋
 
 * I'm Junior Software Engineer 👨🏻‍💻  & Junior Electrical Engineer ⚡️💡
-* Currently learn deeply about data science
+* Currently learn deeply about AI, ML, and DS
 * Still learn about academics for go to university 🏫🎓
 * Contact me for more 👉<a href="mailto:badar.maulana.techno@gmail.com">email</a>
 
