@@ -4,16 +4,20 @@
 ### I'm Badar👋
 
 * I'm Junior Software Engineer 👨🏻‍💻  & Junior Electrical Engineer ⚡️💡
-* Currently learn deeply about AI, ML, and DS
+* Currently learn deeply about Computer Vision, and ML
 * Still learn about academics for go to university 🏫🎓
 * Contact me for more 👉<a href="mailto:badar.maulana.techno@gmail.com">email</a>
 
 ------------------------------------------------------------------------------------
 
 ### Language Skills
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
+
+
 
 [![badadarr's github stats](https://github-readme-stats.vercel.app/api?username=badadarr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
 
