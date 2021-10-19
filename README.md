@@ -1,9 +1,8 @@
-[![HitCount](http://hits.dwyl.com/badadarr/badadarr/READMEmd.svg)](http://hits.dwyl.com/badadarr/badadarr/READMEmd)
 ### こんにちは(Kon'nichiwa)! 
 
-### I'm Badar👋
+### Hi I'm Badar Maulana👋
 
-* I'm Junior Software Engineer 👨🏻‍💻  & Junior Electrical Engineer ⚡️💡
+* I'm Junior Software Developer 👨🏻‍💻  & Junior Electrical Engineer ⚡️💡
 * Currently learn deeply about Machine Learning, and Swift Developer
 * Still learn about academics for go to university 🏫🎓
 * Contact me for more 👉<a href="mailto:badar.maulana.techno@gmail.com">email</a>
