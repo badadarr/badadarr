@@ -2,9 +2,10 @@
 
 ### Hi I'm Badar Maulana👋
 
-* I'm Junior Software Engineer 👨🏻‍💻  & Junior Electrical Engineer ⚡️💡
-* Currently learn deeply about Machine Learning, and Swift Developer
-* Still learn about academics for go to university 🏫🎓
+* Junior Software Engineer 👨🏻‍💻 
+* Currently learn deeply about Machine Learning, and Swift
+* Learn something new is my hobby
+* Still learn about academics for go to collage 🏫🎓
 * Contact me for more 👉<a href="mailto:badar.maulana.techno@gmail.com">email</a>
 
 ------------------------------------------------------------------------------------
@@ -25,7 +26,7 @@
 ### Follow me:
 
 <a href="https://www.linkedin.com/in/badadarrs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/ai.badare" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="nstagram"></a>
+<a href="https://www.instagram.com/ai.badare" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.twitter.com/bididaw" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 
 
