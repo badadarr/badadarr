@@ -2,34 +2,43 @@
 
 ### Hi I'm Badar Maulana👋
 
-* Junior Software Engineer 👨🏻‍💻 
-* Currently learn deeply about Machine Learning, and Swift
-* Learn something new is my hobby
-* Still learn about academics for go to collage 🏫🎓
-* Contact me for more 👉<a href="mailto:badar.maulana.techno@gmail.com">email</a>
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
+🎓 &nbsp;I'm currently studying Software Developer at the Vocational High School IDN.\
+🌱 &nbsp;I'm on track for learning more about Machine Learning, iOS Development, and Web Development.\
+✍️ &nbsp;In my free time, I pursue iOS Development and Play Badminton as hobbies and side hustles.\
+✉️ &nbsp;You can shoot me an email at badar.maulana.techno@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1_ixxK4K98fgIWPyaW5iym_kA657NoZCO/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
-------------------------------------------------------------------------------------
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### Language Skills
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
+### 💻 &nbsp;Workspace Spec
+![Apple Macbook 2012](https://img.shields.io/badge/Apple-MacBook_Pro_2012-05122A?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
 
+### 🛠 &nbsp;Tech I Use
 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Swift](https://img.shields.io/badge/Swift-05122A?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-05122A?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-[![badadarr's github stats](https://github-readme-stats.vercel.app/api?username=badadarr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
+### ⚙️ &nbsp;GitHub Analytics
 
-------------------------------------------------------------------------------------
+<p align="center">
+<a href="https://github.com/badadarr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=badadarr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=badadarr&layout=compact&langs_count=8&theme=algolia" />
+ </a>
+ </p>
 
-### Follow me:
+### 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://www.linkedin.com/in/badadarrs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/ai.badare" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.twitter.com/bididaw" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://linkedin.com/in/badadarrs"><img src="https://img.shields.io/badge/-badadarrs-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/ai.badare"><img src="https://img.shields.io/badge/-@ai.badare-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.twitter.com/bididaw"><img src="https://img.shields.io/badge/-@bididaw-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
-
+-----
+Credits: [Badar Maulana](https://github.com/badadarr)
 
 
 
