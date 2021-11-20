@@ -5,7 +5,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Software Developer at the Vocational High School IDN.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning, iOS Development, and Web Development.\
-✍️ &nbsp;In my free time, I pursue iOS Development and Play Badminton as hobbies and side hustles.\
+✍️ &nbsp;In my free time, I pursue self-learn iOS Development and Play Badminton as hobbies and side hustles.\
 ✉️ &nbsp;You can shoot me an email at badar.maulana.techno@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1_ixxK4K98fgIWPyaW5iym_kA657NoZCO/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
