@@ -21,6 +21,8 @@
 ![Swift](https://img.shields.io/badge/Swift-05122A?flat&logo=swift&logoColor=D06224)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=94B3FD)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Xcode](https://img.shields.io/badge/xcode-05122A?style=flat&logo=xcode&logoColor=94B3FD)&nbsp;
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
