@@ -33,9 +33,9 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://linkedin.com/in/badadarrs"><img src="https://img.shields.io/badge/-badadarrs-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/ai.badare"><img src="https://img.shields.io/badge/-@ai.badare-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.twitter.com/bididaw"><img src="https://img.shields.io/badge/-@bididaw-1DA1F2?style=fflat&logo=twitter&logoColor=white"></a>
+<a href="https://linkedin.com/in/badadarrs"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/ai.badare"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.twitter.com/bididaw"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=fflat&logo=twitter&logoColor=white"></a>
 
 -----
 Credits: [Badar Maulana](https://github.com/badadarr)
