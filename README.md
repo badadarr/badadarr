@@ -21,7 +21,7 @@
 ![Swift](https://img.shields.io/badge/Swift-05122A?flat&logo=swift&logoColor=D06224)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=94B3FD)&nbsp;
 ![Javascript](https://img.shields.io/badge/Javascript-05122A?style=flat&logo=Javascript&logoColor=FFCA03)&nbsp;
-![Html](https://img.shields.io/badge/Html-05122A?style=flat&logo=html&logoColor=D06224)&nbsp;
+![HTML-5](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html&logoColor=D06224)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Xcode](https://img.shields.io/badge/xcode-05122A?style=flat&logo=xcode&logoColor=94B3FD)&nbsp;
 
