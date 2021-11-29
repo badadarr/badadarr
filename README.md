@@ -1,4 +1,4 @@
-# こんにちは(Kon'nichiwa)! 
+# こんにちは! 
 #### Hi I'm Badar Maulana👋
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Software Developer at the Vocational High School IDN.\
