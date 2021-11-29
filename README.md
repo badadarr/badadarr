@@ -4,7 +4,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Software Developer at the Vocational High School IDN.\
-🌱 &nbsp;I'm on track for learning more about Machine Learning, Flutter Development, and Web Development.\
+🌱 &nbsp;I'm on track for learning more about Machine Learning, Flutter Development, and Web Development.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
