@@ -2,7 +2,7 @@
 #### Hi I'm Badar Maulana👋
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp; Currently studying Software Engineer at @IDNBoardingSchool.\
-🎓 &nbsp; Currently Learn Frontend Engineer developer at @GDSCWaseda.\
+👨🏼‍💻 &nbsp; Currently Frontend Engineering Team Developer at @GDSCWaseda.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Flutter Development, and Web Development.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
