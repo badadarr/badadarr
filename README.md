@@ -1,6 +1,6 @@
 # こんにちは! 
 #### Hi I'm Badar Maulana👋
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
+💡 &nbsp;  I like to explore new technologies and develop software solutions.\
 🎓 &nbsp; Currently studying Software Engineer @IDNBoardingSchool.\
 👨🏼‍💻 &nbsp; Currently Frontend Team Developer @GDSCWaseda.\
 👨🏼‍💻 &nbsp; Currently Part time Flutter Developer @ReganNikelIndonesia.\
