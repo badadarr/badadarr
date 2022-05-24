@@ -1,9 +1,9 @@
 # こんにちは! 
 #### Hi I'm Badar Maulana👋
-💡 &nbsp;   I like to explore new technologies and develop software solutions.\
-🎓 &nbsp; Currently studying Software Engineer @IDNBoardingSchool.\
+💡 &nbsp; I like to explore new technologies and develop software solutions.\
+🎓 &nbsp; Currently self-learn software developer.\
 👨🏼‍💻 &nbsp; Currently Frontend Team Developer @GDSCWaseda.\
-🌱 &nbsp;I'm on track for learning more about iOS Development, Flutter Development.
+🌱 &nbsp; I'm on track for learning more about Full Stack Mobile Development.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
