@@ -1,9 +1,9 @@
 # こんにちは! 
 #### Hi I'm Badar Maulana👋
 💡 &nbsp; I like to explore new technologies and develop software solutions.\
-🎓 &nbsp; Currently self-employed software developer.\
-👨🏼‍💻 &nbsp; Currently College @President University.\
-🌱 &nbsp; I'm on track for learning more about Full Stack Mobile Development.
+🎓 &nbsp; Currently College @President University.\
+👨🏼‍💻 &nbsp; Currently self-employed as flutter developer.\
+🌱 &nbsp; I'm on track for focusing Flutter Developer.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
