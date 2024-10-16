@@ -13,8 +13,6 @@
   ![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=94B3FD)&nbsp;
   ![Laravel](https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
   ![Next.js](https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js&logoColor=FFFFFF)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ![Xcode](https://img.shields.io/badge/xcode-05122A?style=flat&logo=xcode&logoColor=94B3FD)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
