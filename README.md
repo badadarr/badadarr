@@ -1,6 +1,8 @@
 # こんにちは! 
 #### Hi I'm Badar Maulana👋
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="400"/>
+
+
 ### 💻 &nbsp;Workspace Spec
 ![Apple Macbook 2012](https://img.shields.io/badge/Apple-MacBook_Pro_2012-05122A?style=flat&logo=apple&logoColor=88E0EF)&nbsp;
 ![Windows NGA Tech Core i7 11](https://img.shields.io/badge/Windows-NGA_Tech_Core_i7_11-05122A?style=flat&logo=windows&logoColor=88E0EF)&nbsp;
