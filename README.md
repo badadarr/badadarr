@@ -4,7 +4,7 @@
 
 ### 💻 &nbsp;Workspace Spec
 ![Apple Macbook 2012](https://img.shields.io/badge/Apple-MacBook_Pro_2012-05122A?style=flat&logo=apple&logoColor=88E0EF)&nbsp;
-![Windows Badge](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=88E0EF)
+![Windows Badge](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=88E0EF)&nbsp;
 
 
 ### 🛠 &nbsp;Tech I Use
