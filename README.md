@@ -28,7 +28,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/badadarrs">
   <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-<a href="https://www.instagram.com/ai.badare">
+<a href="https://www.instagram.com/mbaddre">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
 <a href="https://www.twitter.com/bididaw">
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=fflat&logo=twitter&logoColor=white"/>
