@@ -4,7 +4,7 @@
 
 ### 💻 &nbsp;Workspace Spec
 ![Apple Macbook 2012](https://img.shields.io/badge/Apple-MacBook_Pro_2012-05122A?style=flat&logo=apple&logoColor=88E0EF)&nbsp;
-![NGA Tech Core i7 11](https://img.shields.io/badge/NGA_Tech_Core_i7_11-Windows-05122A?style=flat&logo=windows&logoColor=88E0EF)&nbsp;
+![Windows NGA Tech Core i7 11](https://img.shields.io/badge/Windows-NGA_Tech_Core_i7_11-05122A?style=flat&logo=windows&logoColor=88E0EF)&nbsp;
 
 
 ### 🛠 &nbsp;Tech I Use
