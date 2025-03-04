@@ -26,7 +26,7 @@ Here’s a quick overview of my GitHub activity:
 <a href="https://github.com/badadarr">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=badadarr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=badadarr&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=badadarr&theme=dark&hide_border=false" alt="GitHub Streak" />
+<img height="150em" src="https://streak-stats.demolab.com/?user=badadarr" alt="GitHub Streak" />
 </a>
 </p>
 
