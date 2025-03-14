@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 ## 💻 Workspace Spec
 Here's what powers my development environment:
 <p>
-  <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2012-05122A?style=flat&logo=apple&logoColor=88E0EF" alt="MBP 2012"/>&nbsp;
-  <img src="https://img.shields.io/badge/Windows-NGA_Tech_Core_i7_11-05122A?style=flat&logo=windows&logoColor=88E0EF" alt="Windows 11"/>&nbsp;
+  <img src="https://img.shields.io/badge/MBP_2012-05122A?style=flat&logo=apple&logoColor=88E0EF" alt="MBP 2012"/>&nbsp;
+  <img src="https://img.shields.io/badge/Windows_11-05122A?style=flat&logo=windows&logoColor=88E0EF" alt="Windows 11"/>&nbsp;
 </p>
 
 ## 🛠 Tech Stack
