@@ -33,6 +33,7 @@ Here's a quick overview of my GitHub activity:
 * I enjoy coding late at night when the world is quiet.
 * Always open to collaborating on exciting projects!
 * Passionate about creating impactful solutions that make life easier.
+* Badminton Player Wannabe🏸
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or just chat about tech! 😊
 
