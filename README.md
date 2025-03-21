@@ -26,24 +26,6 @@ I work with a variety of programming languages and frameworks. Here are some of 
   - Teaming up with content creators to sprinkle some SEO magic on our articles.
   - Analyzing website performance with tools like Google Analytics and Search Console to keep us on top!
 
-* **Interning at Itjen Kemendagri as a Web Developer**
-  - Crafted and maintained web applications for government projects—making a difference one line of code at a time!
-  - Collaborated with an awesome team to design user-friendly interfaces that make life easier.
-  - Participated in code reviews, sharing feedback to elevate our code quality.
-  - Helped deploy and maintain web applications, ensuring everything runs smoothly.
-
-* **Contract Employee at Merah Putih Academy as a Flutter Developer**
-  - Built and launched mobile apps using Flutter—turning ideas into reality!
-  - Worked closely with designers to ensure our apps look as good as they function.
-  - Engaged in agile development processes, delivering high-quality apps on time.
-  - Tested and debugged to ensure our apps are top-notch and user-friendly.
-
-* **Interning at Amanah Karya Indonesia as an Android Developer**
-  - Developed Android applications for various exciting projects.
-  - Collaborated with cross-functional teams to bring app features to life.
-  - Participated in code reviews, providing insights to enhance our codebase.
-  - Assisted in deploying and maintaining Android applications, keeping everything up and running.
-
 ## ⚙️ GitHub Analytics
 Here's a quick overview of my GitHub activity:
 <p align="center">
