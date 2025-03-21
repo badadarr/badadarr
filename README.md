@@ -19,6 +19,13 @@ I work with a variety of programming languages and frameworks. Here are some of 
   <img src="https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js&logoColor=FFFFFF" alt="Next.js" />
 </p>
 
+## 💼 Experience
+* **Currently working as a SEO Technical** at **KapanLagiYouniverse**
+  - Responsible for optimizing website content for search engines.
+  - Conducting keyword research and analysis to improve organic search rankings.
+  - Collaborating with content creators to ensure SEO best practices are implemented.
+  - Analyzing website performance using tools like Google Analytics and Search Console.
+
 ## ⚙️ GitHub Analytics
 Here's a quick overview of my GitHub activity:
 <p align="center">
