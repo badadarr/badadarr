@@ -46,4 +46,3 @@ Let's Connect!
 &lt;a href="https://www.instagram.com/mbadarre/">&lt;img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&amp;logo=Instagram&amp;logoColor=white"/>&lt;/a>
 &lt;/p>
 
-Thanks for dropping by! 🚀
