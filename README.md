@@ -45,7 +45,6 @@ Peep these stats, fam, a little peek into my coding chronicles:
 
 ## 🌟 Fun Facts About Your Friendly Neighborhood Dev
 * I get my best code vibes when everyone else is ghosting – midnight is my jam 🦉
-* My DMs are always open for epic collabs (or heated tech debates, bring it on!) 💬
 * On a mission to build solutions that make life's code compile *smoother* 🚀
 * Aspiring badminton ninja! 🏸 (Heads up: my backhand is still in beta, lol)
 
