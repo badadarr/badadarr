@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/daytime-coding.gif" alt="Chill Coding" width="400" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE1NjQxNTEsIm5iZiI6MTc2MTU2Mzg1MSwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzg3OTctYmVhNzc2OWUtY2Q4Ny00OTVmLWFkMGUtMDRkZGZiYjczMDkxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI3VDExMTczMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFjNzgxNjQ4OTg5MGExOTZjN2U1OWJjM2ZhMmFmNjAxMmQzNzc2MGFkZWNkYzYyNWFlMjhmYzM5MWZiYWYxOTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.9-CxE4KvK24uXYJ52nrT19CYJseukfdI4VAd__DPQ_A" alt="Chill Coding" width="400" />
   <h1>👋 Yo, I'm Badar Maulana!</h1>
   <p>Welcome to my digital playground! I'm a curious dev who loves crafting smart solutions with a side of chill vibes. I code with focus, but I also know when to kick back, sip coffee, and enjoy some badminton swings. 🚀</p>
 </div>
