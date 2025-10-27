@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" alt="Night Coding" width="400" />
   <h1>👋 Yo, I'm Badar Maulana!</h1>
-  <p>Welcome to my digital turf! I'm a low-key obsessed dev who lives for diving into cutting-edge tech and cooking up dope solutions. Whether it's pulling all-nighters coding or just messing around with new gadgets, I'm always leveling up my game.</p>
+  <p>Welcome to my digital playground! I'm a curious dev who loves crafting smart solutions with a side of chill vibes. I code with focus, but I also know when to kick back, sip coffee, and enjoy some badminton swings. 🚀</p>
 </div>
 
 ---
@@ -44,9 +44,10 @@ Peep these stats, fam, a little peek into my coding chronicles:
 ---
 
 ## 🌟 Fun Facts About Your Friendly Neighborhood Dev
-* I get my best code vibes when everyone else is ghosting – midnight is my jam 🦉
-* On a mission to build solutions that make life's code compile *smoother* 🚀
-* Aspiring badminton ninja! 🏸 (Heads up: my backhand is still in beta, lol)
+* I code best with a clear mind – morning coffee or evening vibes, I’m in! ☕ <img src="https://img.shields.io/badge/-Coffee_Lover-05122A?style=flat&logo=coffee&logoColor=88E0EF" alt="Coffee Lover" />
+* Building solutions that make life smoother, one line of code at a time. 🚀
+* Aspiring badminton ninja! 🏸 (Still debugging my backhand, but I’m getting there!) <img src="https://img.shields.io/badge/-Badminton-05122A?style=flat&logo=sports&logoColor=88E0EF" alt="Badminton" />
+* Bonus: I’m all about balance – coding, chilling, and exploring new hobbies.
 
 Feel free to browse my repos! If you wanna team up or just geek out about tech, hit me up! 😊
 
