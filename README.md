@@ -24,7 +24,7 @@ I whip out these tools to bring my wild ideas to life:
   <img src="https://img.shields.io/badge/Swift-05122A?flat&logo=swift&logoColor=D06224" alt="Swift" />&nbsp;
   <img src="https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=94B3FD" alt="Flutter" />&nbsp;
   <img src="https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20" alt="Laravel" />&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js&logoColor=FFFFFF" alt="Next.js" />&nbsp;
 </p>
 
 Oh, and I also moonlight as a **Technical SEO wizard**, casting spells for content optimization, keyword magic, and website speed boosts. ✨ *Straight up.*
