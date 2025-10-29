@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Chill Coding" width="400" />
-  <h1>👋 Yo, I'm Badar Maulana!</h1>
+  <h1>👋 Yo, NICE TO MEET YOU GUYS!</h1>
   <p>Welcome to my digital playground! I'm a curious dev who loves crafting smart solutions with a side of chill vibes. I code with focus, but I also know when to kick back, sip coffee, and enjoy some badminton swings. 🚀</p>
 </div>
 
