@@ -6,16 +6,6 @@
 
 ---
 
-## 💻 My Digital Rig
-These are my trusty sidekicks on this dev journey:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MBP_2012-05122A?style=flat&logo=apple&logoColor=88E0EF" alt="MBP 2012"/>&nbsp;
-  <img src="https://img.shields.io/badge/AIERBEN-05122A?style=flat&logo=windows&logoColor=88E0EF" alt="Windows 11"/>&nbsp;
-</p>
-
----
-
 ## 🛠️ My Tech Stash
 I whip out these tools to bring my wild ideas to life:
 
