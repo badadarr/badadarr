@@ -10,14 +10,17 @@
 I whip out these tools to bring my wild ideas to life:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python%20%26%20IoT-05122A?style=flat&logo=python&logoColor=3776AB" alt="Python & IoT" />&nbsp;
-  <img src="https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=94B3FD" alt="Flutter" />&nbsp;
+  <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=3776AB" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=02569B" alt="Flutter" />&nbsp;
   <img src="https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20" alt="Laravel" />&nbsp;
   <img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react&logoColor=61DAFB" />&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js&logoColor=FFFFFF" alt="Next.js" />&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js&logoColor=000000" alt="Next.js" />&nbsp;
+  <img src="https://img.shields.io/badge/IoT-05122A?style=flat&logo=iot&logoColor=FFFFFF" alt="IoT" />&nbsp;
 </p>
 
-Oh, and I also moonlight as a **Technical SEO wizard**, casting spells for content optimization, keyword magic, and website speed boosts. ✨ *Straight up.*
+**Plus:** I moonlight as a **Technical SEO Wizard** 🧙‍♂️  
+Casting spells for content optimization, keyword sorcery, and website speed enchantments.  
+*Making websites Google's favorite since... well, recently.* ✨
 
 ---
 
