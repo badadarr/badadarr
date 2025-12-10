@@ -20,7 +20,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/IoT-05122A?style=flat&logo=iot&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=4169A5" />
   <img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1" />
 </p>
 
