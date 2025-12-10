@@ -7,13 +7,21 @@
 ---
 
 ## 🛠️ Tech Stack
+### 🎯 Languages & Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=3776AB" alt="Python" />&nbsp;
-  <img src="https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=02569B" alt="Flutter" />&nbsp;
-  <img src="https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20" alt="Laravel" />&nbsp;
-  <img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react&logoColor=61DAFB" />&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js&logoColor=000000" alt="Next.js" />&nbsp;
-  <img src="https://img.shields.io/badge/IoT-05122A?style=flat&logo=iot&logoColor=FFFFFF" alt="IoT" />&nbsp;
+  <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20" />
+  <img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js&logoColor=000000" />
+</p>
+
+### 🔧 Tools & Others
+<p align="center">
+  <img src="https://img.shields.io/badge/IoT-05122A?style=flat&logo=iot&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1" />
 </p>
 
 *+ Exploring Technical SEO magic ✨*
