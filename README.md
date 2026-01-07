@@ -30,9 +30,11 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=badadarr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=badadarr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
   <img height="150em" src="https://streak-stats.demolab.com/?user=badadarr" />
 </p>
+
+
 
 ---
 
