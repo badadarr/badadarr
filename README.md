@@ -21,7 +21,7 @@
   <!-- Spotify Now Playing -->
   <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=bed-air&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bed-air&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=true&profanity=false&mode=dark">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bed-air&cover_image=true&theme=apple&background_color=121212&interchange=true&profanity=false&mode=dark">
   </a>
 </p>
 </div>
