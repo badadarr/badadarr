@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Full%20Stack%20Developer&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Full%20Stack%20Developer&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" /> -->
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A177FF&center=true&vCenter=true&width=940&lines=Hey!+I'm+Badar+%F0%9F%91%8B;Coffee+%E2%98%95+%7C+Code+%F0%9F%92%BB+%7C+Badminton+%F0%9F%8F%B8;Building+Awesome+Products+%E2%9C%A8;Full+Stack+%7C+Mobile+%7C+IoT+Developer" alt="Typing SVG" />
