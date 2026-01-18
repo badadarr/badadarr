@@ -107,8 +107,9 @@ const developer = {
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=badadarr&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=A177FF&line=A177FF&point=FFFFFF&area=true&area_color=A177FF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badadarr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177FF&langs_count=8" />
-<img width="49%" src="https://github-profile-trophy-xi.vercel.app/?username=badadarr&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/?username=badadarr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177FF" />
+
+<!-- <img width="49%" src="https://github-profile-trophy-xi.vercel.app/?username=badadarr&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" /> -->
 
 </div>
 
