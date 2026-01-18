@@ -46,8 +46,8 @@ const developer = {
     ],
     
     currentFocus: "Building scalable full-stack applications",
-    funFact: "Debugging === Perfecting smash techniques 🏸",
-    philosophy: "Coffee in → Code out ☕💻"
+    funFact: "Debugging === Perfecting backhand techniques 🏸",
+    philosophy: "Midnight in → Code out 💻"
 };
 ```
 
