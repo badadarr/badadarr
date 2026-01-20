@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Header Animation -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Full%20Stack%20Developer&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" /> -->
-
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A177FF&center=true&vCenter=true&width=940&lines=Hey!+I'm+Badar+%F0%9F%91%8B;Coffee+%E2%98%95+%7C+Code+%F0%9F%92%BB+%7C+Badminton+%F0%9F%8F%B8;Building+Awesome+Products+%E2%9C%A8;Full+Stack+%7C+Mobile+%7C+IoT+Developer" alt="Typing SVG" />
 
@@ -94,22 +91,14 @@ const developer = {
 
 </details>
 
-<!-- GitHub Stats Error/down -->
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
 <details open>
 <summary><h2>📊 GitHub Analytics</h2></summary>
 
 <div align="center">
 
-<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=badadarr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177FF&icon_color=A177FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=badadarr&theme=radical&hide_border=true&background=0D1117&ring=A177FF&fire=A177FF&currStreakLabel=A177FF" /> -->
-
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=badadarr&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=A177FF&line=A177FF&point=FFFFFF&area=true&area_color=A177FF" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/?username=badadarr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177FF" />
-
-<!-- <img width="49%" src="https://github-profile-trophy-xi.vercel.app/?username=badadarr&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" /> -->
 
 </div>
 
