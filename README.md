@@ -113,7 +113,8 @@ const developer = {
 <div align="center">
   
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=bed-air&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bed-air&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=A177FF&bar_color_cover=true" alt="Spotify Now Playing" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bed-air&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark"
+    alt="Spotify Now Playing" />
 </a>
 
 </div>
