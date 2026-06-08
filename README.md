@@ -22,11 +22,11 @@ const developer = {
   role: "Full Stack Developer",
 
   stack: {
-    languages: ["Python", "Dart", "PHP", "JavaScript", "TypeScript"],
+    languages: ["Python", "C++" "Dart", "Kotlin", "Swift", "PHP", "JavaScript", "TypeScript"],
     frontend: ["React", "Next.js", "Flutter"],
     backend: ["Laravel", "Node.js"],
     databases: ["PostgreSQL", "MySQL"],
-    tools: ["Git", "Docker", "VSCode"]
+    tools: ["Git", "Docker", "VSCode", "Android Studio", "XCode"]
   },
 
   focus: "Building scalable full-stack applications",
@@ -36,6 +36,7 @@ const developer = {
     "Mobile Applications",
     "Technical SEO",
     "IoT Solutions"
+    "Machine Learning"
   ],
 
   philosophy: "Consistency beats intensity"
