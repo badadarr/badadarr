@@ -19,7 +19,7 @@
 const developer = {
   name: "Badar Maulana",
   location: "Depok City, West Java",
-  role: "Full Stack Developer",
+  role: "Mobile Developer",
 
   stack: {
     languages: ["Python", "C++" "Dart", "Kotlin", "Swift", "PHP", "JavaScript", "TypeScript"],
